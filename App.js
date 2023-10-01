@@ -26,7 +26,6 @@ export default function App() {
   </View>
   );
 }
-// AIzaSyAjXP2fQt0dJNukkJQhizU-jj0VMqT6oPM
 
 const styles = StyleSheet.create({
   container: {
